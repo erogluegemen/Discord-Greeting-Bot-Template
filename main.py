@@ -28,8 +28,10 @@ async def on_member_join(member):
     await member.send(embed=embed)
     print("mesaj gönderildi.") # Test
 
-key = 'OTI5ODg2MzQ1MTg1MzQ1NTQ3.Ydt2JQ.0n6Ua8aWn8ZhXjoqDbwjRsz3qj8' # Discord Key'inizi buraya ekleyin.
-bot.run(key)
+token = 'OTI5ODg2MzQ1MTg1MzQ1NTQ3.Ydt2JQ.0n6Ua8aWn8ZhXjoqDbwjRsz3qj8' # Discord Token'ınızı buraya ekleyin.
+# (Tokenlar asla paylaşılmaması gereken keylerdir. Yanlış tokenı kullanmayın diye buraya botun eski tokenını koydum örnek olarak. Bu yapıda olanı kullanıcaksanız.)
+# (Token'ı yanlışlıkla public bir yerde paylaştıysanız https://discord.com/developers/applications/ kısmından botunuzun token'ını regenerate edebilirsiniz.)
+bot.run(token)
 
 
 
