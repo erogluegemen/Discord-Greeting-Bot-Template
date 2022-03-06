@@ -6,7 +6,7 @@ bot = commands.Bot(command_prefix='-', intents=intents)
 
 @bot.event
 async def on_ready():
-    print("Bot hazır!")
+    print("Bot hazır!") # Test
 
 @bot.event
 async def on_member_join(member):
