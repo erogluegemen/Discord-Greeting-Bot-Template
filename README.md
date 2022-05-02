@@ -25,3 +25,5 @@ Discord server'ına biri bağlandığı zaman direkt mesaj üzerinden kişiye ot
 <br>
 <br>
 
+### Örnek <br>
+![greeting](https://user-images.githubusercontent.com/30879498/166322664-0eaf09ae-e0df-4293-a848-60fcca094205.png)
